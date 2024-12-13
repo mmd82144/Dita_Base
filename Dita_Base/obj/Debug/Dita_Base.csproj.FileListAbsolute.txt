@@ -1,0 +1,12 @@
+C:\Users\LOQ\source\repos\Dita_Base\Dita_Base\bin\Debug\SchoolDB.mdf
+C:\Users\LOQ\source\repos\Dita_Base\Dita_Base\bin\Debug\SchoolDB_log.ldf
+C:\Users\LOQ\source\repos\Dita_Base\Dita_Base\bin\Debug\Dita_Base.exe.config
+C:\Users\LOQ\source\repos\Dita_Base\Dita_Base\bin\Debug\Dita_Base.exe
+C:\Users\LOQ\source\repos\Dita_Base\Dita_Base\bin\Debug\Dita_Base.pdb
+C:\Users\LOQ\source\repos\Dita_Base\Dita_Base\obj\Debug\Dita_Base.csproj.AssemblyReference.cache
+C:\Users\LOQ\source\repos\Dita_Base\Dita_Base\obj\Debug\Dita_Base.Form1.resources
+C:\Users\LOQ\source\repos\Dita_Base\Dita_Base\obj\Debug\Dita_Base.Properties.Resources.resources
+C:\Users\LOQ\source\repos\Dita_Base\Dita_Base\obj\Debug\Dita_Base.csproj.GenerateResource.cache
+C:\Users\LOQ\source\repos\Dita_Base\Dita_Base\obj\Debug\Dita_Base.csproj.CoreCompileInputs.cache
+C:\Users\LOQ\source\repos\Dita_Base\Dita_Base\obj\Debug\Dita_Base.exe
+C:\Users\LOQ\source\repos\Dita_Base\Dita_Base\obj\Debug\Dita_Base.pdb
